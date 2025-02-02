@@ -31,7 +31,7 @@
       },
       "repoURL": {
         "type": "string",
-        "defaultValue": "https://github.com/viniciusclimaco/event-grid.git",
+        "defaultValue": "https://github.com/tallyto/event-grid.git",
         "metadata": {
           "description": "The URL for the GitHub repository that contains the project to deploy."
         }
